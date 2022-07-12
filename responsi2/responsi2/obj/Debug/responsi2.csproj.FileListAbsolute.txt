@@ -1,0 +1,6 @@
+D:\Kuliah\Pemograman\responsi2\responsi2\responsi2\bin\Debug\responsi2.exe.config
+D:\Kuliah\Pemograman\responsi2\responsi2\responsi2\bin\Debug\responsi2.exe
+D:\Kuliah\Pemograman\responsi2\responsi2\responsi2\bin\Debug\responsi2.pdb
+D:\Kuliah\Pemograman\responsi2\responsi2\responsi2\obj\Debug\responsi2.exe
+D:\Kuliah\Pemograman\responsi2\responsi2\responsi2\obj\Debug\responsi2.pdb
+D:\Kuliah\Pemograman\responsi2\responsi2\responsi2\obj\Debug\responsi2.csprojResolveAssemblyReference.cache
